@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "fa512654-94b5-4953-b682-c00a25d9589e"
+      }
+    },
+    "android": {
+      "package": "com.khyati12.reactnativeproject"
+    }
+  }
+}
